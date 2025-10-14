@@ -1,7 +1,7 @@
 title: Uyanga Turmunkh
 description: Personal academic website
-url: https://prakharsood24.github.io
-baseurl: /uyanga-demo
+url: ""
+baseurl: "" 
 theme: null
 markdown: kramdown
 plugins: []
