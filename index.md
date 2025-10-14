@@ -30,7 +30,7 @@ title: Uyanga Turmunkh
       <!-- RIGHT COLUMN: biography text -->
       <div class="col-xs-12 col-md-6 col-md-offset-1">
         <h1>Biography</h1>
-        <p>I am Associate Professor at <a href="www.ieseg.fr" target="_blank">IESEG School of Management</a>, Department of
+        <p>I am Associate Professor at <a href="https://www.ieseg.fr" target="_blank">IESEG School of Management</a>, Department of
 <a href="https://www.ieseg.fr/en/faculty-and-research/
 departments/economics-and-quantitative-methods/" target="_blank">Economics and Quantitative Methods</a>. 
 I am faculty member at the <a href="https://lem.univ-lille.fr/" target="_blank">LEM</a> research laboratory (CNRS UMR 9221) and at the <a href="https://
