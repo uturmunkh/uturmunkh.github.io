@@ -49,8 +49,8 @@ public economics, and learning and development. Complete <a href="{{ site.baseur
       </div>
 
       <!--<div class="col-xs-12 col-md-6 col-md-offset-1">
-        <h1>Latest</h1>
-        <p>I am involved in several ongoing projects with funding from the French Agence Nationale de la Recherche (ANR), under grant ANR-21-CE03-0018 (project ENDURA - ENvironmental Decisions Under Risk and Ambiguity, of which I am PI), and the European Union’s Horizon Europe research and innovation programme, under grant agreement No. 101056891 (project CAPABLE - ClimAte Policy AcceptaBiLity Economic framework, where I am contributing team member).</p>
+        <h1>News</h1>
+        <p></p>
  </div>-->
     </div>
   </div>
