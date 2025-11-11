@@ -1,12 +1,12 @@
 - title: "Ambiguity Attitudes and Willingness to Pay for Climate Mitigation"
   authors: "with Ilke Aydogan, Nahed Eddai, and James Tremewan"
- # date: ""
+  date: "2025"
   summary: >
    Working paper
   links:
     - label: "PDF"
-     url: "https://hal.inrae.fr/hal-05205037v1"
-     icon: "fa-file-pdf-o"
+      url: "https://hal.inrae.fr/hal-05205037v1/"
+      icon: "fa-file-pdf-o"
 
 #- title: ""
  # authors: ""
