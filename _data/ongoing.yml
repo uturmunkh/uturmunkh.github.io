@@ -1,19 +1,19 @@
-- title: "The Limits of Behavioral Nudges to Increase Youth Turnout: Experimental Evidence from Two French Elections"
+#- title: ""
  # authors: ""
  # date: ""
-  summary: >
+ # summary: >
    Revise and Resubmit at Journal of Economic Behavior and Organization (with Romaniuc et al.)
-  links:
-    - label: "PDF"
-      url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4969540"
-      icon: "fa-file-pdf-o"
+ # links:
+ #   - label: "PDF"
+ #     url: ""
+ #     icon: ""
 
-- title: "Ambiguity Attitudes in Climate Context and Willingness to Pay to Reduce CO2 Emissions"
+- title: "Ambiguity Attitudes and Willingness to Pay for Climate Mitigation"
   authors: "with Ilke Aydogan, Nahed Eddai, and James Tremewan"
  # date: ""
   summary: >
    Working paper
-  #links:
-  #  - label: "PDF"
-  #   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4969540"
+  links:
+    - label: "PDF"
+     url: "{{ site.baseurl }}/assets/Turmunkh_CV.pdf"
   #    icon: "fa-file-pdf-o"
