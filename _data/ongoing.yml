@@ -1,13 +1,3 @@
-#- title: ""
- # authors: ""
- # date: ""
- # summary: >
-   Revise and Resubmit at Journal of Economic Behavior and Organization (with Romaniuc et al.)
- # links:
- #   - label: "PDF"
- #     url: ""
- #     icon: ""
-
 - title: "Ambiguity Attitudes and Willingness to Pay for Climate Mitigation"
   authors: "with Ilke Aydogan, Nahed Eddai, and James Tremewan"
  # date: ""
@@ -17,3 +7,13 @@
     - label: "PDF"
      url: "{{ site.baseurl }}/assets/Turmunkh_CV.pdf"
   #    icon: "fa-file-pdf-o"
+
+#- title: ""
+ # authors: ""
+ # date: ""
+ # summary: >
+   Revise and Resubmit at Journal of Economic Behavior and Organization (with Romaniuc et al.)
+ # links:
+ #   - label: "PDF"
+ #     url: ""
+ #     icon: ""
