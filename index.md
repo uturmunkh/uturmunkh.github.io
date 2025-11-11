@@ -40,8 +40,7 @@ PhD in Economics, specialising in Behavioral Economics. I study decision-making 
 ambiguity. I am particularly interested in applications in the areas of environmental economics,
 public economics, and learning and development. Complete <a href="{{ site.baseurl }}/assets/Turmunkh_CV.pdf" target="_blank">CV</a>.
         </p>
-
-        <h2>Latest</h2>
+        <p>Latest</p>
         <p>I am involved in several ongoing projects with funding from the French Agence Nationale de la Recherche (ANR), under grant ANR-21-CE03-0018 (project ENDURA - ENvironmental Decisions Under Risk and Ambiguity, of which I am PI), and the European Union’s Horizon Europe research and innovation programme, under grant agreement No. 101056891 (project CAPABLE - ClimAte Policy AcceptaBiLity Economic framework, where I am contributing team member).
         </p>
 
@@ -52,9 +51,7 @@ public economics, and learning and development. Complete <a href="{{ site.baseur
       <!--<div class="col-xs-12 col-md-6 col-md-offset-1">
         <h1>Latest</h1>
         <p>I am involved in several ongoing projects with funding from the French Agence Nationale de la Recherche (ANR), under grant ANR-21-CE03-0018 (project ENDURA - ENvironmental Decisions Under Risk and Ambiguity, of which I am PI), and the European Union’s Horizon Europe research and innovation programme, under grant agreement No. 101056891 (project CAPABLE - ClimAte Policy AcceptaBiLity Economic framework, where I am contributing team member).</p>
-
-      </div>-->
-    
+ </div>-->
     </div>
   </div>
 </section>
